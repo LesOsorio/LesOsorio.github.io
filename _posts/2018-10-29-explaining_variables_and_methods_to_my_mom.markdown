@@ -8,14 +8,15 @@ permalink:  explaining_variables_and_methods_to_my_mom
 
    Getting the woman to sit down for a sec was probably the hardest part about this all (she is a very busy woman). Nonetheless, she caught on pretty quickly and understood better than when I was learning. Here is how it all went down. 
 
-   Beginning with the basics: 
+  Beginning with the basics: 
 
-    I began by explaining that any word in Ruby that is not already defined will return an error. So in order to not receive an error message we must first define the variable that we are wanting to call. For example, if I wanted to call on the word  
+   I began by explaining that any word in Ruby that is not already defined will return an error. So in order to not receive an error message we must first define the variable that we are wanting to call. For example, if I wanted to call on the word  
 	 "pozole", alone it would return an error message, because Ruby isn't a fan of words she doesnt know. So in order to help her understand how great pozole is we define the variable "pozole". We can define a varible by setting it equal to a string. In this case what I could do is put pozole equal to the string "hell yes." Now everytime that I call the variable "pozole" it will return the string "hell yes." 
-	The importance behind this is that it helps us store data so we can later save time by simply calling a variable we already defined rather than having to type an entire defintion or explination out everytime we need it. 
+	 
+The importance behind this is that it helps us store data so we can later save time by simply calling a variable we already defined rather than having to type an entire defintion or explination out everytime we need it. 
 
 
-	Defining Methods: 
+Defining Methods: 
 
 A method is like building a small machine. Now this machine can help us do a lot more with a little less effort. ( yes, I am still putting in effort, mom)  For example, if I wanted to say something multiple time, (like when I'm trying to get your attention mom, but you keep ignoring me) in computure format, I could just type "Maaaaaaa" twenty times, but it's very tiring and well I really don't wanna do that. So instead I would create a method that will say "Maaaaaa" for me twenty times with out me having to actually keep saying it.
 	
