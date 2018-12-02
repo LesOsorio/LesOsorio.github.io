@@ -20,7 +20,7 @@ Defining Methods:
 
 A method is like building a small machine. Now this machine can help us do a lot more with a little less effort. ( yes, I am still putting in effort, mom)  For example, if I wanted to say something multiple time, (like when I'm trying to get your attention mom, but you keep ignoring me) in computure format, I could just type "Maaaaaaa" twenty times, but it's very tiring and well I really don't wanna do that. So instead I would create a method that will say "Maaaaaa" for me twenty times with out me having to actually keep saying it.
 	
-	The way it starts is by using the *def* key word. This is to help define my method, which I will call *distrubing_my_mother*. Now I have to define a varible as to what my method will do. So my variable will be *phrase* = "Maaaaa" Now to put it all together it will look something like this: 
+The way it starts is by using the *def* key word. This is to help define my method, which I will call *distrubing_my_mother*. Now I have to define a varible as to what my method will do. So my variable will be *phrase* = "Maaaaa" Now to put it all together it will look something like this: 
 
 ```
 1.  def disturbing_my_mother
@@ -31,7 +31,7 @@ A method is like building a small machine. Now this machine can help us do a lot
 6.    end 
 ```
 
-          Now whenever I want to get your attention all I have to do is call on the method I created: disturbing_my_mother and it will say "Maaaaa" however many times I've set it to. 
+ Now whenever I want to get your attention all I have to do is call on the method I created: disturbing_my_mother and it will say "Maaaaa" however many times I've set it to. 
 			
 
 
