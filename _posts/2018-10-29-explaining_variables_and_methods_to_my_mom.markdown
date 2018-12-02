@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Explaining Variables & Methods to My Mom "
-date:       2018-10-29 19:16:11 +0000
+date:       2018-10-29 15:16:12 -0400
 permalink:  explaining_variables_and_methods_to_my_mom
 ---
 
 
-    Getting the woman to sit down for a sec was probably the hardest part about this all (she is a very busy woman). Nonetheless, she caught on pretty quickly and understood better than when I was learning. Here is how it all went down. 
+   Getting the woman to sit down for a sec was probably the hardest part about this all (she is a very busy woman). Nonetheless, she caught on pretty quickly and understood better than when I was learning. Here is how it all went down. 
 
     Beginning with the basics: 
 
