@@ -10,7 +10,7 @@ permalink:  explaining_variables_and_methods_to_my_mom
 
   Beginning with the basics: 
 
-   I began by explaining that any word in Ruby that is not already defined will return an error. So in order to not receive an error message we must first define the variable that we are wanting to call. For example, if I wanted to call on the word  
+ I began by explaining that any word in Ruby that is not already defined will return an error. So in order to not receive an error message we must first define the variable that we are wanting to call. For example, if I wanted to call on the word  
 	 "pozole", alone it would return an error message, because Ruby isn't a fan of words she doesnt know. So in order to help her understand how great pozole is we define the variable "pozole". We can define a varible by setting it equal to a string. In this case what I could do is put pozole equal to the string "hell yes." Now everytime that I call the variable "pozole" it will return the string "hell yes." 
 	 
 The importance behind this is that it helps us store data so we can later save time by simply calling a variable we already defined rather than having to type an entire defintion or explination out everytime we need it. 
